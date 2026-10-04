@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">استخراج اقلام به اکسل</string>
+    <string name="service_description">وقتی صفحه «حذف اقلام فروشگاهی» باز باشد یک دکمه شناور نمایش می‌دهد و با اسکرول خودکار، فهرست اقلام را می‌خواند و به فایل اکسل تبدیل می‌کند. هیچ داده‌ای به اینترنت ارسال نمی‌شود.</string>
+</resources>
